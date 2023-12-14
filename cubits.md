@@ -2,7 +2,7 @@
 title: Cubits ($CBIT)
 description: Decentralized economy powered by $CBIT 
 published: true
-date: 2023-11-19T19:32:19.481Z
+date: 2023-12-14T16:28:50.423Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T17:10:21.714Z
@@ -37,15 +37,22 @@ There has been one sale during the time period since launch and all of the proce
 
 Founders $PASS NFT's are available on multiple marketplaces supporting the Polygon blockchain including Opensea.
 
-The core team members shall use a royalty fee capture rate of around 3~5% on most available NFT marketplaces, and these fee revenues will be captured & accrued in the DAO controlled wallet.
+The core team members shall use a royalty fee capture rate of around 2.5~10% on most available NFT marketplaces, and these fee revenues will be captured & accrued in the DAO controlled wallet.
 
 <br>
 
-### Cubit Liquidity Miners
+### Cubit Staking Incentives
 
-Cubit holders may demonstrate their trust in the project by locking up some of their $CBIT tokens in the CBIT/MATIC staking pool to get additional tokens and/or potentially other rewards.
+Cubit holders may demonstrate their trust in the project by locking up some of their $CBIT tokens into the CUBE_Staking smart contract, this contract creates a Staking Pool with a dynamic interest reward of $CBIT based on how many total stakers exist and how many total tokens are within the pool.
 
-This incentive will help stabilize/bolster the value of $CBIT and therefore allow the token incentives to effectively support the creators, contributors, and ecosystem participants within the ecosystem.
+Holders looking to get more potential value out of their tokens with added risk can become Liquidity Providers by providing a portion (e.g; 50/50) of MATIC & CBIT tokens to the Liquidity Pool, this will reward you with a portion of the fees accrued from $CBIT swaps on the Uniswap platform. To demonstrate further trust in the project, you are able to lock up your $LP-Provider token for a set duration of time to receive a dynamic interest rate of $CBIT tokens.
+
+This incentive will help stabilize/bolster the value of $CBIT and therefore allow the token incentives to effectively support the creators, contributors, and ecosystem participants.
+
+> The staking platform is under re-development as of Dec, 2023. Stay updated via Discord.
+{.is-info}
+
+
 
 
 ## Proof of Play Issuance
@@ -55,7 +62,10 @@ The PoP issuance represents 20% of the total supply. The goal of the PoP issuanc
 As a sophisticated game, which combines PvE, PvP, and MMO gameplay, there are entire trees of skills, tactics, investment, and/or performances that deserve rewards. The game issuance essentially exists to do that. 
 
 The possible usage is not exhaustive and will continue to evolve in ways to enhance the engagement, activities, and entertainment of the gamers. To name a few possible use cases: 
+- Setting up an advanced in-game economy through systems like Chest Shops.
 - Hourly active playtime rewards
+- Participating in Quests
+- Receiving a virtual in-game Job
 - Ranking rewards based on leaderboard
 - Winning a tournament
 - Winning a PvP, PvE, or other contest in the game 
@@ -65,25 +75,11 @@ The possible usage is not exhaustive and will continue to evolve in ways to enha
 
 These allocations are something that could potentially be decided by governance over time.
 
-**Gaming issuance history will be recorded and updated in the below sections:**
-https://www.oklink.com/polygon/address/0x1a39f62d7c4803f9438845aed2c5633cf47ff1c3 - more to come
+**Gaming issuance / Proof of Play rewards are only distributed from this address as of Dec, 2023:**
+https://www.oklink.com/polygon/address/0x1a39f62d7c4803f9438845aed2c5633cf47ff1c3 
 
-## Liquidity Mining
-
-LP Mining is a way for us to reward our community members who are willing to lock up their tokens for having a commitment to the CBIT platform and ecosystem growth.
-
-For any liquid asset like CBIT, locking up invites both the carrying and opportunity costs as well as exposure to unforeseen volatility. To compensate for these costs, the platform will offer yields based on the staking reward pool.
-
-<ul class="links-list">
-    <li>
-        <a href="hhttps://cubedao.net/mining/" class="blue-text">
-            ⛏️ Mining <em> Contribute your CBIT/MATIC to the pool. </em>
-        </a>
-    </li>
-</ul>
-
-For instructions on how to provide initial Liquidity to a Pool on Uniswap, <a href="https://support.uniswap.org/hc/en-us/articles/7423194619661-How-to-provide-liquidity-on-Uniswap-V3">***Click Here!***</a>
-
+*Old System Wallet: (DEPRECATED as of Sept, 2023) 17,926 Total Payouts.*
+<a href="https://polygonscan.com/token/0x4c989b872e96c37bc6fcb2f0fe5fdcabecc405a2?a=0x12a83a68a57c2d05b6543a2a6a67922b8b77db82">Click here to view the outdated system wallet</a>
 
 
 
