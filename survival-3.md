@@ -2,7 +2,7 @@
 title: Survival 3.0
 description: Official documentation for the Survival 3.0 game mode.
 published: true
-date: 2023-12-14T16:51:26.624Z
+date: 2023-12-14T16:54:22.990Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T14:12:28.688Z
@@ -25,7 +25,7 @@ dateCreated: 2023-10-09T14:12:28.688Z
   <li><a href="/en/survival-3/land-claiming">
 🌎 Land Claiming<em>Commands & Information regarding claiming land.</em></a></li> 
   
-  <li><a href="/en/enchantments">
+  <li><a href="/en/survival-3/enchantments">
 🧙 Enchantments<em>Useful information regarding items such as enchantment scrolls and how to obtain them.</em></a></li> 
   
   <li><a href="/en/survival-3/chest-shops">
@@ -37,7 +37,7 @@ dateCreated: 2023-10-09T14:12:28.688Z
   <li><a href="/en/survival-3/fishing">
 🎣 Fishing<em>Get more information about custom fishing features on the server.</em></a></li>
   
-  <li><a href="/en/survival-3/">
+  <li><a href="/en/survival-3/jobs">
 📊 Jobs<em>Progress through 17 unique jobs to earn $JP.</em></a></li>
 
   <li><a href="https://cubedao.net/map/">
