@@ -2,7 +2,7 @@
 title: Governance
 description: Overview of CubeDAO governance utilities
 published: true
-date: 2023-12-14T15:43:54.635Z
+date: 2023-12-14T16:38:19.024Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T16:32:37.731Z
@@ -39,7 +39,14 @@ We estimate that the majority of undistributed tokens will be distributed, and t
 >*Full decentralization has not been achieved yet, and our core team members are not making any profits or seeking monetary gain. We want to clarify that this community is not driven by profit-seeking motives.  The 'DAO' we mention is simply an organization of like-minded individuals collaborating on advancing a specific domain of technology. It's important to understand that joining our community means recognizing that financial remuneration is not the goal, and significant risks are involved if you decide to contribute. Please be aware of these factors before getting involved.*
 {.is-danger}
   
+## Founders Pass
+There is a maximum of 1000 Founders on the Polygon blockchain. Owning a pass gives the ability to stake & earn Cubits. Founders receive exclusive access to benefits such as a VIP membership on The Cube. 
 
+Creators of the DAO will reserve 100 passes for development, promotions, partner incentives, airdrops and events. 
+
+Founders Passes can be minted here: https://opensea.io/collection/cubedao/drop - if they have sold out, you can buy from the secondary marketplace on OpenSea.
+
+50% of proceeds generated from the OpenSea Drop will be contributed towards $CBIT liquidity on Uniswap (~$27,000) progressively.
 
 ## Smart Contracts
 
