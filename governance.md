@@ -2,7 +2,7 @@
 title: Governance
 description: Overview of CubeDAO governance utilities
 published: true
-date: 2023-11-19T19:37:03.586Z
+date: 2023-12-14T15:22:36.415Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T16:32:37.731Z
@@ -60,35 +60,27 @@ We estimate that the majority of undistributed tokens will be distributed, and t
         <td>$CBIT contract - ERC-20</td>
       </tr>
       <tr>
-        <td><a href="https://polygonscan.com/address/0x7ed7a705026ffc9a8a6273422b4a77733100acb9">Founders' Pass</a></td>
-        <td>Founders' Pass - ERC-721</td>
+        <td><a href="https://polygonscan.com/address/0x7ed7a705026ffc9a8a6273422b4a77733100acb9">Founders Pass</a></td>
+        <td>Founders Pass - ERC-721</td>
       </tr>
       <tr>
-        <td><a href="https://polygonscan.com/address/0xe9a51d1a90341f4d68b801125b67d24c908733f2">Staking</a></td>
-        <td>Controls Founders Pass Staking</td>
+        <td><a href="https://polygonscan.com/address/0xe9a51d1a90341f4d68b801125b67d24c908733f2">Founders Pass Staking</a></td>
+        <td>Staking Contract</td>
       </tr>
       <tr>
-        <td><a href="https://polygonscan.com/address/0x77270e1772307D66410d1c20eCBF121cbb57aFd2">Creator Reserve</a></td>
-        <td>Holds Locked Creator Reserves</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.oklink.com/polygon/address/0x1a39f62d7c4803f9438845aed2c5633cf47ff1c3">Proof of Play Reserve</a></td>
-        <td>Holds & Transfers Proof of Play Tokens</td>
-      </tr>
-      <tr>
-        <td><a href="https://polygonscan.com/address/0xE16B797BDC944e9C60Fc37539303c6876e423c13">Uniswap Liquidity Pool</a></td>
+        <td><a href="https://polygonscan.com/address/0xE16B797BDC944e9C60Fc37539303c6876e423c13">Liquidity Pool</a></td>
         <td>Pool Contract (Uniswap V3 Pool)</td>
       </tr>
       <tr>
-        <td><a href="https://polygonscan.com/address/0x3f5f52150515e26ba76c914489aa030e6272894f">CUBE_Players</a></td>
+        <td><a href="https://polygonscan.com/address/0x3f5f52150515e26ba76c914489aa030e6272894f">CUBE Players</a></td>
         <td>Handles player wallet information for Proof of Play rewards</td>
       </tr>
       <tr>
-        <td><a href="https://polygonscan.com/address/0x20723de8e6ab77181bef9478f7c3cf4f44698e69">CUBE_Tx_Handler</a></td>
+        <td><a href="https://polygonscan.com/address/0x20723de8e6ab77181bef9478f7c3cf4f44698e69">CUBE Tx Handler</a></td>
         <td>Handles gasless transfers</td>
       </tr>
       <tr>
-        <td><a href="https://polygonscan.com/address/0xbf476ae0127d6128d77790ffb3299c42bd8f2d4f">CUBE_Proxy_V2</a></td>
+        <td><a href="https://polygonscan.com/address/0xbf476ae0127d6128d77790ffb3299c42bd8f2d4f">CUBE Proxy V2</a></td>
         <td>Handles in-game shop purchases</td>
       </tr>
     </tbody>
