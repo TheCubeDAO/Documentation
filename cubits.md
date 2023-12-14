@@ -2,13 +2,20 @@
 title: Cubits ($CBIT)
 description: Decentralized economy powered by $CBIT 
 published: true
-date: 2023-12-14T16:34:11.620Z
+date: 2023-12-14T16:36:51.305Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T17:10:21.714Z
 ---
 
-
+</ol>
+                        <ul class="links-list">
+                            <li>
+                                <a href="https://app.uniswap.org/#/tokens/polygon/0x4c989b872e96c37bc6fcb2f0fe5fdcabecc405a2" class="blue-text">
+                                    🪙 Uniswap<em>Buy & Sell the $CBIT ERC-20 token.</em>
+                                </a>
+                            </li>
+                        </ul>
 
 ## Value Capture
 The majority of the value generated across the platform will be captured and funneled into the DAO which will be controlled and driven by the community members in the future when the project becomes fully open-sourced.
