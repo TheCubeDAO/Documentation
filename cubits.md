@@ -2,7 +2,7 @@
 title: Cubits ($CBIT)
 description: Decentralized economy powered by $CBIT 
 published: true
-date: 2023-12-14T16:28:50.423Z
+date: 2023-12-14T16:30:59.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T17:10:21.714Z
@@ -97,7 +97,7 @@ https://www.oklink.com/polygon/address/0x1a39f62d7c4803f9438845aed2c5633cf47ff1c
           <p>Amount in $CBIT</p>
         </td>
         <td>
-          <p>Share</p>
+          <p>Total Share</p>
         </td>
       </tr>
       <tr>
@@ -123,9 +123,9 @@ https://www.oklink.com/polygon/address/0x1a39f62d7c4803f9438845aed2c5633cf47ff1c
     </tbody>
   </table>
  
- 
 ---
 
+### Tokenomics Explained
  
 <ul>
   <li><strong>Maximum Supply: &nbsp;</strong>(21,000,000 Cubits)<br>&nbsp;</li>
@@ -140,12 +140,12 @@ These tokens have been locked for a linear 5 year time period and will be slowly
 <br>To be eligible to tap into PoP reserves you must own a successful project with active players. <a href="https://polygonscan.com/token/0x4c989b872e96c37bc6fcb2f0fe5fdcabecc405a2?a=0xb35a3fa16473ff5020590ff32dcb4cebd1a928a1"> Click here</a>&nbsp;</li>
   <br>
   <li><strong>Staking Reserves:</strong> 15% (3,150,000 Cubits) will be allocated to a pool of rewards that users can earn by staking their $CBIT tokens or a Founders $PASS.&nbsp;
-<br>Once pre-defined reserves run out no further rewards may be claimed. The committee can vote to change this via proposal. <a href="https://polygonscan.com/token/0x4c989b872e96c37bc6fcb2f0fe5fdcabecc405a2?a=0xe9a51d1a90341f4d68b801125b67d24c908733f2"> Click here</a>&nbsp;</li>
+<br>Once pre-defined reserves run out no further rewards may be claimed. The DAO can vote to change this via proposal. <a href="https://polygonscan.com/token/0x4c989b872e96c37bc6fcb2f0fe5fdcabecc405a2?a=0xe9a51d1a90341f4d68b801125b67d24c908733f2"> Click here</a>&nbsp;</li>
   <br>
-  <li><strong>DAO (Committee): </strong>10% (2,100,000 Cubits) will be allocated to the committee that will allow members and founders to participate in key decisions. The DAO will be responsible for managing the project's development, allocating resources, and setting the direction of the project. 
+  <li><strong>DAO: </strong>10% (2,100,000 Cubits) will be allocated to the DAO that will allow members and founders to participate in key decisions. The DAO will be responsible for managing the project's development, allocating resources, and setting the direction of the project. 
 The DAO allocation will provide a decentralized governance structure for the project. <a href="https://polygonscan.com/token/0x4c989b872e96c37bc6fcb2f0fe5fdcabecc405a2?a=0xD6B640DADb33182D7d6AE733022B420A4eaDe0F9"> Click here</a></li>
 </ul>
 
 
 
-*The committee vault refers to one or more blockchain addresses that effectively capture and accrue values across the game, that will be eventually controlled by the $CBIT token holders.*
+*The DAO refers to one or more blockchain addresses that effectively capture and accrue values across the game, that will be eventually controlled by the $CBIT token holders.*
