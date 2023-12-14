@@ -2,7 +2,7 @@
 title: Survival 3.0
 description: Official documentation for the Survival 3.0 game mode.
 published: true
-date: 2023-11-22T20:19:03.383Z
+date: 2023-12-14T16:51:26.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T14:12:28.688Z
@@ -22,20 +22,15 @@ dateCreated: 2023-10-09T14:12:28.688Z
     <li><a href="en/survival-3/getting-started">
 ⭐️ Getting Started<em>Helpful information on how to begin playing Survival 3.0.</em></a></li> 
   
-
-  
   <li><a href="/en/survival-3/land-claiming">
 🌎 Land Claiming<em>Commands & Information regarding claiming land.</em></a></li> 
   
   <li><a href="/en/enchantments">
-🧙 Custom Enchantments<em>Useful information
-regarding items such as enchantment scrolls and how to obtain them.</em></a></li> 
-
+🧙 Enchantments<em>Useful information regarding items such as enchantment scrolls and how to obtain them.</em></a></li> 
   
   <li><a href="/en/survival-3/chest-shops">
 📦 Chest Shops<em>General information regarding the creation of a server-wide public shop.</em></a></li>
   
-
   <li><a href="/en/survival-3/gangs">
 🧱 Gangs<em>Helpful information surrounding a gang and the perks of creating one.</em></a></li>
   
