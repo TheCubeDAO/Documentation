@@ -2,7 +2,7 @@
 title: Governance
 description: Overview of CubeDAO governance utilities
 published: true
-date: 2023-12-14T15:22:36.415Z
+date: 2023-12-14T15:43:54.635Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T16:32:37.731Z
