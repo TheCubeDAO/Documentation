@@ -2,7 +2,7 @@
 title: Survival 3.0
 description: Official documentation for the Survival 3.0 game mode.
 published: true
-date: 2023-12-14T16:54:22.990Z
+date: 2023-12-14T16:57:36.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T14:12:28.688Z
@@ -19,7 +19,7 @@ dateCreated: 2023-10-09T14:12:28.688Z
 </p></blockquote>
 
 <ul class="links-list">
-    <li><a href="en/survival-3/getting-started">
+    <li><a href="/en/survival-3/getting-started">
 ⭐️ Getting Started<em>Helpful information on how to begin playing Survival 3.0.</em></a></li> 
   
   <li><a href="/en/survival-3/land-claiming">
