@@ -2,7 +2,7 @@
 title: Proof of Play
 description: 
 published: true
-date: 2023-11-19T19:25:03.489Z
+date: 2023-12-14T16:05:51.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T18:36:40.502Z
@@ -14,9 +14,6 @@ dateCreated: 2023-11-19T18:36:40.502Z
 Welcome to Proof of Play, a groundbreaking system that redefines the gaming experience. Developed by CubeDAO, this innovative approach shifts away from the traditional game provider model. It focuses on tracking your gameplay statistics and activities to reward you with Virtual Cubit tokens. These tokens can be exchanged for real-world cryptocurrency like $CBIT, $MATIC, and $TOPIA, as well as in-game cosmetics and valuable items.
 
 ## CBIT Payments System
-
-**Introduction**
-The payments system is a crucial part of your experience. This section provides an explanation of how it works.
 
 **Connecting Your Wallet**
 Upon joining the server, players receive a chat notification, prompting them to link a Polygon/Ethereum wallet to The Cube's game servers. This is done by signing in with the Microsoft Account associated with their Minecraft account. 
