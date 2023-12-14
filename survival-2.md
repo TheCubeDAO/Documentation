@@ -2,7 +2,7 @@
 title: Survival 2.0
 description: 
 published: true
-date: 2023-10-23T18:47:27.387Z
+date: 2023-12-14T16:45:18.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-04T23:48:49.059Z
@@ -23,7 +23,7 @@ dateCreated: 2023-10-04T23:48:49.059Z
   <li><a href="https://cubedao.net/map/"><img alt="🌟" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5fa.svg" class="emoji">
 World Overview<em>View the 3D World Overview.</em></a></li> 
   
-  <li><a href="/en/how-to-claim-land" class="is-internal-link is-valid-page"><img alt="🌟" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3dd.svg" class="emoji">
+  <li><a href="/en/survival-2/land-claiming" class="is-internal-link is-valid-page"><img alt="🌟" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3dd.svg" class="emoji">
 Land Claiming<em>Commands & Information regarding claiming land.</em></a></li> 
   
   <li><a href="/en/enchantments" class="is-internal-link is-valid-page"><img alt="🌟" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fa84.svg" class="emoji">
