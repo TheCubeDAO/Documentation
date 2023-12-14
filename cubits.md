@@ -2,7 +2,7 @@
 title: Cubits ($CBIT)
 description: Decentralized economy powered by $CBIT 
 published: true
-date: 2023-12-14T16:30:59.894Z
+date: 2023-12-14T16:34:11.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T17:10:21.714Z
@@ -128,7 +128,6 @@ https://www.oklink.com/polygon/address/0x1a39f62d7c4803f9438845aed2c5633cf47ff1c
 ### Tokenomics Explained
  
 <ul>
-  <li><strong>Maximum Supply: &nbsp;</strong>(21,000,000 Cubits)<br>&nbsp;</li>
   <li><strong>Liquidity Reserves:</strong> 50% (10,500,000 Cubits) will be used to provide liquidity for the Cubits token on decentralized and centralized exchanges. The liquidity reserves will be used with MATIC on Uniswap to provide an efficient way for users to buy and sell Cubits.
     9,000,000 (85%) of these tokens have been locked while members raise funding to prevent risk of token sell offs. 3 Year Linear Lock (01 Jan 2026) <a href="https://polygonscan.com/token/0x4c989b872e96c37bc6fcb2f0fe5fdcabecc405a2?a=0x12a83a68a57c2d05b6543a2a6a67922b8b77db82"> Click here</a>&nbsp;</li>
   <br>
