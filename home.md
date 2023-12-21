@@ -1,8 +1,8 @@
 ---
-title: The Cube - Official Wiki - Home Page
-description: Welcome to the official wiki page for the CubeDAO project. If you have any questions and/or concerns, feel free to contact support.
+title: CUBE DAO - Official Wiki - Home Page
+description: Welcome to the official wiki page for the Cube DAO project. If you have any questions and/or concerns, feel free to contact support.
 published: true
-date: 2023-12-14T16:44:20.273Z
+date: 2023-12-21T16:47:26.046Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:11:34.730Z
