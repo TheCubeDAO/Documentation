@@ -2,43 +2,10 @@
 title: Affiliate Program
 description: Share the CubeDAO project to your followers & friends to become an affiliate partner!
 published: true
-date: 2023-10-10T22:33:56.212Z
+date: 2023-12-22T20:45:27.349Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-27T14:45:46.144Z
 ---
 
-## Applying to be a CubeDAO Affiliate
-
-We appreciate everyone who creates content on our platform, showcasing features, updates, events and much more. To recognise all your hard work, we offer valuable incentives to continue promoting our server. Depending on your notoriety, you may receive Cubits ($CBIT) as compensation for your contributions, this is our projects ERC-20 token on the Polygon blockchain. Tokens may be subject to lock-up period depending on the offer.
-
-
-## Partner Role
-> **Requirements:**
-> 2,000+ Subscribers/Followers
-> 300+ views per video/stream/post
-> Minecraft or Crypto related content
-> Have uploaded CubeDAO or The Cube related content previously
-> Have uploaded at least 3 videos per month or at least 24 active hours streamed 
-> 
-> **Perks:**
-> YouTube/Twitch/Creator Title
-> VIP Rank on The Cube gameservers
-{.is-info}
-
-### Incentive
-As an Affiliate Partner, you will recieve **35,000 $CBIT** (approx. $9.45 when writing) **per video** which meets the requirements stated above.
-*Maximum 2 videos per day*
-
-Streamers may receive **8,000 $CBIT** (approx. $2.16 when writing) **per hour** of streaming with a minimum of 20 active viewers.
-
-The exact $CBIT amount must be confirmed by the DAO via Improvement Proposal at *proposals.cubedao.net* under **CIP 2.0: Creator Program**. Tokens from this incentive will be allocated from Liquidity Reserves to stabilize tokenomic distribution. The CIP may not be live yet.
-
-<h4><ul class="links-list">
-    <li>
-        <a href="https://cubedao.net/support-tickets/open" class="blue-text">
-            🎗️ Apply <em> Submit a Ticket to become an Affiliate </em>
-        </a>
-    </li>
-</ul>
-<br>
+\# Become a CubeDAO Affiliate Welcome to CubeDAO, a thriving platform where content creators like you make a significant impact by showcasing our features, updates, events, and more. We value your contributions and are excited to offer attractive incentives to continue promoting our server. As a token of our appreciation, eligible creators can earn Cubits ($CBIT), our ERC-20 token on the Polygon blockchain, as compensation. Please note that these tokens might be subject to a lock-up period based on the specific offer. ## Partner Requirements and Benefits ### Who Can Apply? - \*\*Subscribers/Followers:\*\* You should have 2,000+ Subscribers or Followers. - \*\*Views:\*\* Your content (videos, streams, posts) should average 300+ views. - \*\*Content Focus:\*\* Your focus should be on Minecraft or Crypto-related content. - \*\*Consistency:\*\* You need to maintain a consistent upload/stream schedule (at least 3 videos per month or 24+ hours streamed). ### What Do You Get? - \*\*Title:\*\* A special YouTube/Twitch/Creator Title. - \*\*VIP benefits:\*\* VIP Rank on all servers. ### Rewards for Your Efforts As an Affiliate Partner, you are eligible for the following rewards: - \*\*For Video Creators:\*\* Earn \*\*35,000 $CBIT\*\* (approximately $8.33 at the time of writing) \*\*per qualifying video\*\*. Note: Up to 2 videos per day are eligible. - \*\*For Streamers:\*\* Receive \*\*8,000 $CBIT\*\* (approximately $1.90 at the time of writing) \*\*per hour\*\* of streaming, with a minimum of 20 active viewers. ### Important Details - \*\*Token Distribution:\*\* The incentives will be sourced from Liquidity Reserves to ensure balanced token distribution. ### Ready to Join? 🎗️ \[Apply Now\](https://cubedao.net/support-tickets/open) - Submit a Ticket to Become an Affiliate \*Join us in shaping the future of CubeDAO and start earning rewards for your creative efforts!\*
