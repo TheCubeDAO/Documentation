@@ -2,7 +2,7 @@
 title: CUBE DAO - Official Wiki - Home Page
 description: Welcome to the official wiki page for the Cube DAO project. If you have any questions and/or concerns, feel free to contact support.
 published: true
-date: 2023-12-21T16:50:55.046Z
+date: 2024-01-04T21:06:14.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:11:34.730Z
@@ -43,7 +43,5 @@ No matter what your preferred gameplay style is, you’ll be at home within The 
 
 
 -   [💰 Webstore *Purchase a VIP rank*](https://shop.cubedao.net/)
--   [🔲 Founders Pass *Mint a $PASS for MATIC tokens*](https://opensea.io/collection/cubedao/overview)
 
-> Purchasing a Founders Pass grants more benefits than purchasing just the VIP rank.
 {.is-info}
