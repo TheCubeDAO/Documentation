@@ -1,14 +1,14 @@
 ---
-title: CUBE DAO - Official Wiki - Home Page
+title: CubeDAO - Official Wiki - Home Page
 description: Welcome to the official wiki page for the Cube DAO project. If you have any questions and/or concerns, feel free to contact support.
 published: true
-date: 2024-01-04T21:06:14.068Z
+date: 2024-01-08T14:55:10.954Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:11:34.730Z
 ---
 
-# **Welcome to Cube DAO!**
+# **Welcome to the Cube DAO!**
 
 **CubeDAO** launched in 2021, and has been steadily growing as one of the first gaming projects to have a decentralized structure - allowing the players to truly own the game they’re contributing their time to. CubeDAO governs & controls The Cube Minecraft servers.
 
