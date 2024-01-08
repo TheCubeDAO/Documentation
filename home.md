@@ -2,7 +2,7 @@
 title: CubeDAO - Official Wiki - Home Page
 description: Welcome to the official wiki page for the Cube DAO project. If you have any questions and/or concerns, feel free to contact support.
 published: true
-date: 2024-01-08T14:55:10.954Z
+date: 2024-01-08T14:56:39.064Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:11:34.730Z
@@ -24,12 +24,12 @@ No matter what your preferred gameplay style is, you’ll be at home within The 
 -   [🏦 Governance *Information about the decentralization approach*](/en/governance)
 -   [🖥️ Discord *Join our official community*](https://discord.gg/qC7KR5DASr)
 -   [🪙 Cubits *Information about the community token*](/en/cubits)
--   [💵 Store *Purchase ranks, boosters, and more!*](https://shop.cubedao.net/)
+-   [💵 Store *Purchase ranks and crate keys!*](https://shop.cubedao.net/)
 
 ## Newcomers
 
 -   [📘 Getting Started *Information for newcomers to read*](/en/getting-started)
--   [💲 Proof of Play *Learn about valuable reward incentives*](/en/proof-of-play)
+-   [💲 Proof of Play *Learn about valuable reward incentives - CURRENTLY DISABLED DUE TO MOJANG DISPUTE*](/en/proof-of-play)
 
 
 ## Support
