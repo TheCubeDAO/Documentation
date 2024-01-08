@@ -2,7 +2,7 @@
 title: CubeDAO - Official Wiki - Home Page
 description: Welcome to the official wiki page for the Cube DAO project. If you have any questions and/or concerns, feel free to contact support.
 published: true
-date: 2024-01-08T15:23:07.377Z
+date: 2024-01-08T15:23:49.038Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:11:34.730Z
@@ -44,5 +44,5 @@ No matter what your preferred gameplay style is, you’ll be at home within The 
 
 -   [💰 Webstore *Purchase a VIP rank*](https://shop.cubedao.net/)
  
-<a target="_blank" href="https://www.amazon.co.uk/b?_encoding=UTF8&tag=cubedao-21&linkCode=ur2&linkId=3add38637542201becf4c51bcdc168a0&camp=1634&creative=6738&node=300703">Bestselling Games</a>
+
 {.is-info}
