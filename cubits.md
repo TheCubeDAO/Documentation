@@ -2,7 +2,7 @@
 title: Cubits ($CBIT)
 description: Decentralized economy powered by $CBIT 
 published: true
-date: 2023-12-14T16:36:58.806Z
+date: 2024-01-09T18:07:32.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T17:10:21.714Z
@@ -22,11 +22,6 @@ The majority of the value generated across the platform will be captured and fun
 
 ** Fiat purchases will be potentially discouraged over time and will be directed into on-chain transactions as much as commercially reasonable through on-ramp terminals for more accountability.
 
-<br>
-
-### On-chain Revenue ($CBIT, $TOPIA, $MATIC)
-
-**Cubits:** In-game packages are sold at a discounted price in fiat denomination if paid directly with vCUBIT (Virtual Cubit). The discount rate is periodically adjusted based on the exchange rate of CBIT/MATIC pair to sustain fair pricing.
 
 <br>
 
@@ -34,7 +29,7 @@ The majority of the value generated across the platform will be captured and fun
 
 Since the launch of the DAO, all proceeds from CubeDAO NFT's sold by the project (ie. $PASS) will be captured by the DAO controlled wallet.
 
-There has been one sale during the time period since launch and all of the proceeds have entered or will enter the vault.
+There has been one sale during the time period since launch and all of the proceeds have entered or will enter the DAO controlled wallet.
 1. Founders $PASS OpenSea Drop
 2. Future Revenue of NFT collections
 
