@@ -2,7 +2,7 @@
 title: Proof of Play
 description: 
 published: true
-date: 2023-12-14T16:05:59.312Z
+date: 2024-01-09T18:05:34.157Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T18:36:40.502Z
@@ -11,20 +11,20 @@ dateCreated: 2023-11-19T18:36:40.502Z
 # Proof of Play: A Player's Guide
 
 ## Overview
-Welcome to Proof of Play, a groundbreaking system that redefines the gaming experience. Developed by CubeDAO, this innovative approach shifts away from the traditional game provider model. It focuses on tracking your gameplay statistics and activities to reward you with Virtual Cubit tokens. These tokens can be exchanged for real-world cryptocurrency like $CBIT, $MATIC, and $TOPIA, as well as in-game cosmetics and valuable items.
+Welcome to Proof of Play, a groundbreaking system that redefines the gaming experience. Developed by CubeDAO, this innovative approach shifts away from the traditional game provider model. It focuses on tracking your gameplay statistics and activities to reward you with Virtual Cubit tokens. These Virtual Cubits can be exchanged for real-world crypto tokens like $CBIT, $MATIC, and $TOPIA, as well as in-game cosmetics and valuable items.
 
 ## CBIT Payments System
 
 **Connecting Your Wallet**
-Upon joining the server, players receive a chat notification, prompting them to link a Polygon/Ethereum wallet to The Cube's game servers. This is done by signing in with the Microsoft Account associated with their Minecraft account. 
+Upon connecting to one of our gamemodes, players will receive a notification, prompting them to link a Polygon/Ethereum wallet to our [CUBE_Players](https://polygonscan.com/address/0x3f5f52150515e26ba76c914489aa030e6272894f) Smart Contract. 
 
-Visit https://cubedao.net/ and sign in with your Microsoft Account linked to your Minecraft account. The page includes a "Set Primary Wallet" button, upon clicking that you will be asked to sign a Signature which will create a unique line of data corresponding to your Minecraft UUID + Wallet Address.
+Visit https://cubedao.net/ and sign in. The page includes a "Set Primary Wallet" button, upon clicking that you will be asked to sign a Signature which will create a unique line of data corresponding to your Profile UUID + Wallet Address.
 
 **Cube Players Contract**
-After creating the signature, you'll be prompted to approve a call to the CUBE Players contract. This call transfers your unique signature to the contract, ensuring we know where to send your rewards when you play on The Cube!
+After creating the signature, you'll be prompted to approve a call to the CUBE Players contract. This call transfers your unique signature to the contract, ensuring we know where to send your rewards when you play on our servers!
 
 **Proof of Play Mechanism**
-Engaging in various game modes on The Cube Minecraft server allows players to accumulate Virtual Cubits based on their activities. Virtual Cubits, a unique in-game currency, can be used in the /shop to acquire valuable items or exchanged at the Currency Exchange for real-world cryptocurrency.
+Engaging in various game modes throughout The Cube allows players to accumulate Virtual Cubits based on their activities. Virtual Cubits, a unique in-game currency, can be used in the /shop to acquire valuable items or exchanged at the Currency Exchange for real-world crypto tokens such as $CBIT or $TOPIA.
 
 **Decentralized Organization**
 CubeDAO envisions full decentralization, empowering the community to actively participate in managing and controlling the server through proposals and a governance hierarchy system.
