@@ -2,7 +2,7 @@
 title: Cubits ($CBIT)
 description: Decentralized community governance powered by $CBIT 
 published: true
-date: 2024-01-11T16:14:10.021Z
+date: 2024-01-11T16:15:43.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T17:10:21.714Z
@@ -19,7 +19,7 @@ This incentive will help stabilize/bolster the value of Cubits and therefore all
 
 We would like to clarify that the Cubit token may not have a market value, if it currently does, assume it does not. We do not facilitate or support methods or attempts to sell the Cubit token or connections linking it to real-world currency. The Cubit token is a community utility token operating mainly on the Polygon blockchain.
 
-> The staking platform is under re-development as of Dec, 2023. Stay updated via Discord.
+> The staking platform is under re-development as of Jan, 2024. Stay updated via Discord.
 {.is-info}
 
 
