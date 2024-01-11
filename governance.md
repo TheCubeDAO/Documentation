@@ -2,17 +2,16 @@
 title: Governance
 description: Overview of CubeDAO governance utilities
 published: true
-date: 2023-12-14T16:38:26.679Z
+date: 2024-01-11T15:54:49.506Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T16:32:37.731Z
 ---
 
 
-A game needs players. By simply playing the game, community members are adding value to the network and should be rewarded.
 
 
-> Disclaimer: Please note that anything written on this page and other docs pages should not be taken as financial advice. CubeDAO is incorporating unfinished, highly experimental technology. Development priorities and features are subject to change based on research, traction, feedback from the community, and other factors.
+> Disclaimer: CubeDAO is incorporating unfinished, highly experimental technology. Development priorities and features are subject to change based on research, traction, feedback from the community, and other factors.
 {.is-warning}
 
 
@@ -25,7 +24,7 @@ However, during the early phase of the game, the governance decision will be mad
 
 During this period, more advanced technological infrastructure will be developed and released to facilitate the decision-making process.
 
-We estimate that the majority of undistributed tokens will be distributed, and the team will likely be a minority stake by 2025. At this point, we anticipate that the governing committee will transition into a community-owned DAO (Decentralized Autonomous Organization), fully controlled by the $CBIT token holders.
+We estimate that the majority of undistributed tokens will be distributed, and the team will likely be a minority stake by 2025. At this point, we anticipate that the governing committee will transition into a community-owned DAO (Decentralized Autonomous Organization), fully controlled by the Cubit token holders.
 <h4><ul class="links-list">
     <li>
         <a href="https://proposals.cubedao.net/#/" class="blue-text">
@@ -34,19 +33,15 @@ We estimate that the majority of undistributed tokens will be distributed, and t
     </li>
 </ul>
 <br>
-  
-> **Decentralization has not been fully established yet.**
->*Full decentralization has not been achieved yet, and our core team members are not making any profits or seeking monetary gain. We want to clarify that this community is not driven by profit-seeking motives.  The 'DAO' we mention is simply an organization of like-minded individuals collaborating on advancing a specific domain of technology. It's important to understand that joining our community means recognizing that financial remuneration is not the goal, and significant risks are involved if you decide to contribute. Please be aware of these factors before getting involved.*
-{.is-danger}
+
   
 ## Founders Pass
-There is a maximum of 1000 Founders on the Polygon blockchain. Owning a pass gives the ability to stake & earn Cubits. Founders receive exclusive access to benefits such as a VIP membership on The Cube. 
+There is a maximum of 1000 Founders on the Polygon blockchain. Owning a pass gives the ability to stake Cubits, you may also receive boosted power under governance proposals.
 
 Creators of the DAO will reserve 100 passes for development, promotions, partner incentives, airdrops and events. 
 
 Founders Passes can be minted here: https://opensea.io/collection/cubedao/drop - if they have sold out, you can buy from the secondary marketplace on OpenSea.
 
-50% of proceeds generated from the OpenSea Drop will be contributed towards $CBIT liquidity on Uniswap (~$27,000) progressively.
 
 ## Smart Contracts
 
@@ -73,10 +68,6 @@ Founders Passes can be minted here: https://opensea.io/collection/cubedao/drop -
       <tr>
         <td><a href="https://polygonscan.com/address/0xe9a51d1a90341f4d68b801125b67d24c908733f2">Founders Pass Staking</a></td>
         <td>Staking Contract</td>
-      </tr>
-      <tr>
-        <td><a href="https://polygonscan.com/address/0xE16B797BDC944e9C60Fc37539303c6876e423c13">Liquidity Pool</a></td>
-        <td>Pool Contract (Uniswap V3 Pool)</td>
       </tr>
       <tr>
         <td><a href="https://polygonscan.com/address/0x3f5f52150515e26ba76c914489aa030e6272894f">CUBE Players</a></td>
