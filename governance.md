@@ -2,7 +2,7 @@
 title: Governance
 description: Overview of CubeDAO governance utilities
 published: true
-date: 2024-01-11T15:54:49.506Z
+date: 2024-01-12T20:23:46.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T16:32:37.731Z
@@ -17,7 +17,7 @@ dateCreated: 2023-07-24T16:32:37.731Z
 
 
 
- ## Governing The Cube
+ # Governing The Cube
 A utility case for the $CBIT Token is that it would allow holders to propose and vote on on-chain governance proposals to determine future features, policies, content, and parameters of The Cube gameserver. Voting power and say are given proportionally to the voters amount of held tokens. Voters with a Founders $PASS are given a greater degree of influence (voting weight) in deciding whether to apply the changes listed in a governance poll.
   
 However, during the early phase of the game, the governance decision will be made by the core team. This will prevent malicious actors from making hostile takeover efforts and disrupting the ecosystem during the early and crucial phases of platform development.
