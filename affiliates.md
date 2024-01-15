@@ -2,7 +2,7 @@
 title: Affiliate Program
 description: Share the CubeDAO project to your followers & friends to become an affiliate partner!
 published: true
-date: 2024-01-15T15:53:52.497Z
+date: 2024-01-15T15:54:37.638Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-27T14:45:46.144Z
@@ -26,8 +26,8 @@ Welcome to CubeDAO, a thriving platform where content creators like you make a s
 
 ### Rewards for Your Efforts
 As an Affiliate Partner, you are eligible for the following rewards:
-- **For Video Creators:** Earn **35,000 $CBIT** (approximately $8.33 at the time of writing) **per qualifying video**. Note: Up to 2 videos per day are eligible.
-- **For Streamers:** Receive **8,000 $CBIT** (approximately $1.90 at the time of writing) **per hour** of streaming, with a minimum of 20 active viewers.
+- **For Video Creators:** Earn **35,000 $CBIT per qualifying video**. Note: Up to 2 videos per day are eligible.
+- **For Streamers:** Receive **8,000 $CBIT per hour** of streaming, with a minimum of 20 active viewers.
 
 ### Important Details
 
