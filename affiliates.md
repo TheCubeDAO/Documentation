@@ -2,7 +2,7 @@
 title: Affiliate Program
 description: Share the CubeDAO project to your followers & friends to become an affiliate partner!
 published: true
-date: 2023-12-22T20:45:30.706Z
+date: 2024-01-15T15:53:52.497Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-27T14:45:46.144Z
@@ -35,6 +35,6 @@ As an Affiliate Partner, you are eligible for the following rewards:
 
 
 ### Ready to Join?
-🎗️ [Apply Now](https://cubedao.net/support-tickets/open) - Submit a Ticket to Become an Affiliate
+🎗️ [Apply Now](https://discord.cubedao.net) - Submit a Ticket to Become an Affiliate
 
 *Join us in shaping the future of CubeDAO and start earning rewards for your creative efforts!*
