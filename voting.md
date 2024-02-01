@@ -2,7 +2,7 @@
 title: Vote Links
 description: 
 published: true
-date: 2024-02-01T00:37:41.671Z
+date: 2024-02-01T19:33:56.185Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-27T15:41:22.026Z
@@ -12,9 +12,11 @@ dateCreated: 2023-01-27T15:41:22.026Z
 
 You can vote for our server to receive in-game rewards every 12-24 hours.
 
-When voting, your username must be exactly the same as in-game or you won't receive rewards.
+When voting, your username must be exactly the same as in-game or you won't receive rewards. 
 
-To vote for the server, click the links below to be taken to each voting website. We have seven websites you could vote on, each once per day. Each time you vote, you will be rewarded. Vote rewards include Virtual Cubits, and Vote Crate Keys!
+If you are on Bedrock, you must prefix your Username with a . such as: '.Username123'
+
+To vote for the server, click the links below to be taken to each voting website. We have eight websites you could vote on, each once per day. Each time you vote, you will be rewarded. Vote rewards include Virtual Cubits, and Vote Crate Keys!
 
 
 ## Why Vote?
