@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2023-06-20T16:23:00.807Z
+date: 2024-02-01T18:54:52.699Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:26:36.392Z
@@ -14,14 +14,14 @@ You can vote for our server to receive in-game rewards every 12-24 hours.
 
 When voting, your username must be exactly the same as in-game or you won't receive rewards.
 
-To vote for the server, click the links below to be taken to each voting website. We have seven websites you could vote on, each once per day. Each time you vote, you will be rewarded. Vote rewards include $CRYPTO token vouchers, and Vote Crate Keys!
+To vote for the server, click the links below to be taken to each voting website. We have seven websites you could vote on, each once per day. Each time you vote, you will be rewarded. Vote rewards include Virtual Cubits, and Vote Crate Keys!
 
 
 ## Why Vote?
 
 Voting for our server helps us to grow and reach new players to join our community.
 
-Voting rewards you crypto tokens & keys as a reward.
+Voting rewards you virtual cubits & keys as a reward.
 
 The top 3 voters of each month receive exclusive rewards.
 
@@ -35,5 +35,4 @@ Click the links below to start voting.
 - <a href="https://minecraft-server-list.com/server/488106/vote/">www.minecraft-server-list.com</a>
 - <a href="https://best-minecraft-servers.co/server-the-sewer-side.8191/vote">www.best-minecraft-servers.co</a>
 - <a href="http://topminecraftservers.org/vote/27624">www.topminecraftservers.org</a>
-- <a href="https://minecraft.buzz/vote/7329">www.minecraft.buzz </a> (?)
-- <a href="https://minecraft-server.net/vote/CubeDAO/">www.minecraft-server.net</a> (?)
+- <a href="https://minecraft.buzz/vote/7329">www.minecraft.buzz </a> 
