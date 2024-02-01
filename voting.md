@@ -2,7 +2,7 @@
 title: Vote Links
 description: 
 published: true
-date: 2023-12-01T17:09:19.202Z
+date: 2024-02-01T00:37:21.990Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-27T15:41:22.026Z
@@ -14,7 +14,7 @@ You can vote for our server to receive in-game rewards every 12-24 hours.
 
 When voting, your username must be exactly the same as in-game or you won't receive rewards.
 
-To vote for the server, click the links below to be taken to each voting website. We have seven websites you could vote on, each once per day. Each time you vote, you will be rewarded. Vote rewards include $CRYPTO token vouchers, and Vote Crate Keys!
+To vote for the server, click the links below to be taken to each voting website. We have seven websites you could vote on, each once per day. Each time you vote, you will be rewarded. Vote rewards include Virtual Cubits, and Vote Crate Keys!
 
 
 ## Why Vote?
