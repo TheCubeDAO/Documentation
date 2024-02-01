@@ -2,7 +2,7 @@
 title: Vote Links
 description: 
 published: true
-date: 2024-02-01T00:37:21.990Z
+date: 2024-02-01T00:37:41.671Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-27T15:41:22.026Z
@@ -21,7 +21,7 @@ To vote for the server, click the links below to be taken to each voting website
 
 Voting for our server helps us to grow and reach new players to join our community.
 
-Voting rewards you crypto tokens & keys as a reward.
+Voting rewards you virtual cubits & keys as a reward.
 
 The top 3 voters of each month receive exclusive rewards.
 
