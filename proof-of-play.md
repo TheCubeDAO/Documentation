@@ -2,14 +2,15 @@
 title: Proof of Play
 description: 
 published: true
-date: 2024-02-01T00:31:14.389Z
+date: 2024-02-01T00:34:59.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T18:36:40.502Z
 ---
 
 # Proof of Play: A Player's Guide
-
+> Disclaimer: Proof of Play functionality is currently unavailable while we discuss concerns from Mojang. Keep up to date via Discord.
+{.is-warning}
 ## Overview
 Welcome to Proof of Play, a groundbreaking system that redefines the gaming experience. Developed by CubeDAO, this innovative approach shifts away from the traditional game provider model. It focuses on tracking your gameplay statistics and activities to reward you with Virtual Cubit tokens. These Virtual Cubits can be exchanged for the Cubit ($CBIT) Governance token, as well as in-game cosmetics and valuables.
 
