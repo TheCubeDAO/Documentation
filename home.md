@@ -2,7 +2,7 @@
 title: CubeDAO - Official Wiki - Home Page
 description: Welcome to the official wiki page for the Cube DAO project. If you have any questions and/or concerns, feel free to contact support.
 published: true
-date: 2024-03-11T17:32:15.019Z
+date: 2024-03-12T16:22:31.671Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:11:34.730Z
@@ -28,7 +28,7 @@ No matter what your preferred gameplay style is, you’ll be at home within The 
 ## Newcomers
 
 -   [📘 Getting Started *Information for newcomers to read*](/en/getting-started)
--   [💲 Proof of Play *Discover the Benefits of Proof-of-Play Rewards*](/en/proof-of-play)
+-   [💲 Consensus Group *Discover exclusive Benefits by being a member of the Consensus*](/en/consensus)
 
 
 ## Support
