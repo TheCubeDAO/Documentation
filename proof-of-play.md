@@ -1,48 +1,47 @@
 ---
-title: Proof of Play
+title: The Consensus Group
 description: 
 published: true
-date: 2024-02-01T00:34:59.130Z
+date: 2024-03-12T17:09:20.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T18:36:40.502Z
 ---
 
-# Proof of Play: A Player's Guide
-> Disclaimer: Proof of Play functionality is currently unavailable while we discuss concerns from Mojang. Keep up to date via Discord.
+## Consensus Rewards Program
+
+The Cube DAO Community Rewards Program is designed to incentivize and recognize active community members who significantly contribute to the ecosystem. Through this program, we aim to foster an engaged community that thrives on collaboration, participation, and shared growth.
+
+> This program is not yet available, it is under development as of March, 2024.
 {.is-warning}
-## Overview
-Welcome to Proof of Play, a groundbreaking system that redefines the gaming experience. Developed by CubeDAO, this innovative approach shifts away from the traditional game provider model. It focuses on tracking your gameplay statistics and activities to reward you with Virtual Cubit tokens. These Virtual Cubits can be exchanged for the Cubit ($CBIT) Governance token, as well as in-game cosmetics and valuables.
 
-## CBIT Payments System
 
-**Connecting Your Wallet**
-Upon connecting to one of our gamemodes, players will receive a notification, prompting them to link a Polygon/Ethereum wallet to our [CUBE_Players](https://polygonscan.com/address/0x3f5f52150515e26ba76c914489aa030e6272894f) Smart Contract. 
 
-Visit https://cubedao.net/ and sign in. The page includes a "Set Primary Wallet" button, upon clicking that you will be asked to sign a Signature which will create a unique line of data corresponding to your Profile UUID + Wallet Address.
+### Incentive
 
-**Cube Players Contract**
-After creating the signature, you'll be prompted to approve a call to the CUBE Players contract. This call transfers your unique signature to the contract, ensuring we know where to send your rewards when you play on our servers!
+Each month, members holding the "Consensus" role will receive an airdrop of tokens, reflecting their contribution and engagement within the Cube DAO community. This airdrop is calculated based on a proprietary metric known as 'points', which represents the user's activity and involvement throughout the community. The exact formula for calculating points is part of an internal closed-source system, ensuring fairness and preventing manipulation.
 
-**Proof of Play Mechanism**
-Engaging in various game modes throughout The Cube allows players to accumulate Virtual Cubits based on their activities. Virtual Cubits, a unique in-game currency, can be used in the /shop to acquire valuable items or exchanged at the Currency Exchange for real-world crypto tokens such as $CBIT.
+The token airdrop distribution is directly proportional to the number of points accumulated by each Consensus role holder. We prioritize transparency; thus, we publicly post reward distributions monthly in the Cube DAO Discord, allowing every member to view and understand the reward dynamics.
 
-**Decentralized Organization**
-CubeDAO envisions full decentralization, empowering the community to actively participate in managing and controlling the server through proposals and a governance hierarchy system.
+## How to Join the Consensus Group:
+To attain the Consensus role, members need to demonstrate consistent and meaningful engagement within Cube DAO. Here are the various pathways to becoming a member:
 
-## Virtual Cubits
+- **Community Engagement:** Have an active presence in our Discord channels, actively participating in discussions, offering help, and providing valuable insights.
+- **Event Participation:** Regularly engage in community events, whether it's tournaments, brainstorming sessions, or any other activities organized by the community.
+- **Service Utilization:** Actively use the services offered by Cube DAO, showing support and contributing to the ecosystem's growth.
 
-**Earning Virtual Cubits**
-Virtual Cubits can be earned through diverse in-game activities, such as playtime, quests, jobs, and player trading. This versatile currency encourages player engagement and can be used across different game modes on The Cube, fostering a unified economy.
+### Opt-In 
+To join the Consensus group and start earning rewards, members must consciously opt-in. This ensures that only those interested and committed to the community's growth receive the rewards. Here's how to opt-in:
 
-**Cross-Server Currency**
-Virtual Cubits transcend individual servers, allowing players to earn and spend them across various game modes. For instance, Virtual Cubits earned in Survival can be spent in other modes like KitPvP.
+1. Visit your Profile on [Cube DAO's official website](https://cubedao.net).
+2. Look for the Consensus Rewards Program section.
+3. Indicate your willingness to participate by choosing to opt-in.
+4. Ensure your Discord username & Crypto Wallet is correctly linked to your profile.
 
-**Currency Exchange**
-The Currency Exchange, a vital feature of Survival, enables players to convert Virtual Cubits into cryptocurrency tokens. The process involves two steps:
+Through the Community Rewards Program, Cube DAO aims to build a self-sustaining ecosystem that rewards contributions, fosters innovation, and celebrates the collective efforts of its members. Join us in shaping the future of Cube DAO, where every member's contribution is recognized and rewarded.
 
-1. **Token Selection Menu:** Currently the only option available is Cubit ($CBIT) tokens on the Polygon blockchain.
+### Reward Method
 
-2. **Token Rates Menu:** Specify the amount of Virtual Cubits for exchange, determining the ERC-20 cryptocurrency tokens received on the Polygon blockchain. For example, exchanging 1,000 Virtual Cubits might yield 1,000 $CBIT at a 1:1 ratio.
+You must have completed the Opt-In process to receive rewards.
 
-The Currency Exchange adds depth to the Proof of Play system, allowing players to tangibly benefit from their in-game efforts and enhancing the overall gaming experience.
+Every month, holders of the Consensus Role will have their community statistics checked and logged for the highest holders of points, this balance will reset each month. Once we are aware of the top holders we will post a detailed breakdown of the payouts for the month on our Discord server.  
